@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-au/collections/shop-new-products.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2023-07-01T16:10:33-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+    <published>2023-07-01T16:10:33-04:00</published>
+    <updated>2023-07-01T16:10:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/copy-of-trippy-gel-3d-sculpting-gel-15-ml"/>
+    <title>TRIPPY GEL - 3D SCULPTING GEL - 15 ML</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_9a4c82fc-95ad-46ea-a327-1ede6c1cae74.jpg?v=1688242098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large jars! 15 ML each color!</p>
+<p>This moldable gel is an easy way to achieve 3D art designs.</p>
+<p>The formula allows the nail artist to create their design with no time restraint before curing in the light. Create the same designs as with acrylic, without the hassle of working fast. </p>
+<p>Recommended to use with alcohol to allow more fluidity when working with this 3D gel, you can use 3D brush, or silicone tools to carve and sculpt your designs! </p>
+<p><strong>Cure Time LED/UV:</strong> <span style="text-decoration: underline;">LED:</span> 30-60 sec <span style="text-decoration: underline;">UV:</span> 60-120 sec *longer cure time for larger pieces, suggested in layers*<br>use gloves while working with this product* </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 ml</s:tag>
+    <s:tag>3d</s:tag>
+    <s:tag>form</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>sculpt</s:tag>
+    <s:tag>sculpting</s:tag>
+    <s:tag>trippy</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>CLEAR</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>WHITE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>BLACK</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>RED</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>ORANGE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>NEON GREEN</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>GREEN</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>BABY BLUE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>ROYAL BLUE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>PURPLE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>PINK</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>NEON PINK</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>FUCHSIA</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>BROWN</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>PEACH</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>LIGHT BEIGE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8062863671554</id>
+      <title>LIGHT NUDE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8057139921154</id>
+    <published>2023-06-30T21:11:22-04:00</published>
+    <updated>2023-06-30T21:11:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/nailzbydev-glass-dappen-dish"/>
+    <title>NAILZBYDEV GLASS DAPPEN DISH</title>
+    <s:type>dappen dish</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_035e5687-40dd-4e3a-ab52-98e309d77d58.jpg?v=1687538811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>dappen dish<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A beautiful glass dappen dish with NAILZBYDEV logo engraved inside the top of the dish. Available in 2 colors iridescent or pink!</p>
+<p>•great for alcohol, acetone, monomer</p>
+<p>•this dappen dish is not spill proof if tilted sideways, but does have lid!</p>
+<p>•logo engraved</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>alcohol</s:tag>
+    <s:tag>dappen</s:tag>
+    <s:tag>dappen dish</s:tag>
+    <s:tag>dish</s:tag>
+    <s:tag>glass</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>monomer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8057139921154</id>
+      <title>IRIDESCENT CRYSTAL</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8057139921154</id>
+      <title>PINK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029164699906</id>
+    <published>2023-06-09T20:00:12-04:00</published>
+    <updated>2023-06-09T20:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-bling-bling"/>
+    <title>GEL POLISH- BLING BLING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_b41a5b2c-b404-4fd3-9b4b-5bbc3f61ab1e.jpg?v=1684859954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLING BLING</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029164699906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029163716866</id>
+    <published>2023-06-09T20:00:12-04:00</published>
+    <updated>2023-06-09T20:00:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-grillz"/>
+    <title>GEL POLISH- GRILLZ</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_18c32192-3ddc-4e30-8a21-4322f5858339.jpg?v=1684860023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>GRILLS</s:tag>
+    <s:tag>GRILLZ</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029163716866</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029163553026</id>
+    <published>2023-06-09T20:00:11-04:00</published>
+    <updated>2023-06-09T20:00:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-so-fly"/>
+    <title>GEL POLISH- SO FLY</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_77942cd3-9952-4194-9dc0-70378fa06749.jpg?v=1684860092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>PURPLE</s:tag>
+    <s:tag>SO FLY</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029163553026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029163258114</id>
+    <published>2023-06-09T20:00:11-04:00</published>
+    <updated>2023-06-09T20:00:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-get-crunk"/>
+    <title>GEL POLISH- GET CRUNK</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_4a422a4c-6805-4327-a0e5-aa065989d31e.jpg?v=1684860012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>GET CRUNK</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>PURPLE</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029163258114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029162701058</id>
+    <published>2023-06-09T20:00:10-04:00</published>
+    <updated>2023-06-09T20:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-pool-party"/>
+    <title>GEL POLISH- POOL PARTY</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_746cdcb5-1262-4c5a-8a5e-42fb222f26e2.jpg?v=1684860066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>POOL PARTY</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029162701058</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029161881858</id>
+    <published>2023-06-09T20:00:10-04:00</published>
+    <updated>2023-06-09T20:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-slip-slide"/>
+    <title>GEL POLISH- SLIP &amp; SLIDE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_1482897b-bbc9-4357-b172-9ce89e08b872.jpg?v=1684860078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>SLIP &amp; SLIDE</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>TEAL</s:tag>
+    <s:tag>TURQUOISE</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029161881858</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029161554178</id>
+    <published>2023-06-09T20:00:10-04:00</published>
+    <updated>2023-06-09T20:00:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-toxic"/>
+    <title>GEL POLISH- TOXIC</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_3bb0f825-7100-4c1c-be23-ff77c14c5e99.jpg?v=1684860179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>TEAL</s:tag>
+    <s:tag>TOXIC</s:tag>
+    <s:tag>TURQUOISE</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029161554178</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029161160962</id>
+    <published>2023-06-09T20:00:09-04:00</published>
+    <updated>2023-06-09T20:00:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-supa-soaker"/>
+    <title>GEL POLISH- SUPA&apos; SOAKER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_5facaa6e-8989-420d-b4fe-7babd03c6b70.jpg?v=1684860125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>SUPA</s:tag>
+    <s:tag>SUPA&apos; SOAKER</s:tag>
+    <s:tag>SUPER SOAKER</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029161160962</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029160997122</id>
+    <published>2023-06-09T20:00:09-04:00</published>
+    <updated>2023-06-09T20:00:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-apple-bottom"/>
+    <title>GEL POLISH- APPLE BOTTOM</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_458cf93b-7805-44d6-943e-ca18dd79b400.jpg?v=1684859943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>APPLE BOTTOM</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029160997122</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029160243458</id>
+    <published>2023-06-09T20:00:08-04:00</published>
+    <updated>2023-06-09T20:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-soak-up-the-sun"/>
+    <title>GEL POLISH- SOAK UP THE SUN</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_4b5dd715-2af5-4b7b-a379-624afe6ef754.jpg?v=1684860102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>SOAK UP THE SUN</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:tag>YELLOW</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029160243458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029158736130</id>
+    <published>2023-06-09T20:00:08-04:00</published>
+    <updated>2023-06-09T20:00:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-sunny-d"/>
+    <title>GEL POLISH- SUNNY D.</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_2e4c8d3b-842e-446d-991f-0ab128b942d1.jpg?v=1684860116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>SUNNY D</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029158736130</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029158080770</id>
+    <published>2023-06-09T20:00:07-04:00</published>
+    <updated>2023-06-09T20:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-heat-wave"/>
+    <title>GEL POLISH- HEAT WAVE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_6dd4f8d4-0604-4634-8c93-002745613aaa.jpg?v=1684860039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>HEAT WAVE</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029158080770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029157687554</id>
+    <published>2023-06-09T20:00:07-04:00</published>
+    <updated>2023-06-09T20:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-hot-in-here"/>
+    <title>GEL POLISH- HOT IN HERE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_0d64faf0-900e-407a-9147-a2429e064b5f.jpg?v=1684860050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>HOT IN HERE</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029157687554</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029156868354</id>
+    <published>2023-06-09T20:00:07-04:00</published>
+    <updated>2023-06-09T20:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-freak-a-leek"/>
+    <title>GEL POLISH- FREAK A LEEK</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_d2056775-989e-4973-bc0f-1474fc4745b3.jpg?v=1684860001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>FREAK A LEEK</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>ORANGE</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029156868354</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029156475138</id>
+    <published>2023-06-09T20:00:06-04:00</published>
+    <updated>2023-06-09T20:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-thong-song"/>
+    <title>GEL POLISH- THONG SONG</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_3abfa98c-b935-4859-a0e3-3b93ce07d194.jpg?v=1684860166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>THONG SONG</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029156475138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029155459330</id>
+    <published>2023-06-09T20:00:06-04:00</published>
+    <updated>2023-06-09T20:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-thats-hott"/>
+    <title>GEL POLISH- THAT&apos;S HOTT</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_0adbcbe9-33fe-45bd-91fd-7cd6f2ac80aa.jpg?v=1684860136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>THATS HOTT</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029155459330</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029155197186</id>
+    <published>2023-06-09T20:00:05-04:00</published>
+    <updated>2023-06-09T20:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-bug-a-boo"/>
+    <title>GEL POLISH- BUG A BOO</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_13d349b7-da8e-4d08-9f27-f40b5b3b81e5.heic?v=1684859965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>BUG A BOO</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029155197186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029153919234</id>
+    <published>2023-06-09T20:00:05-04:00</published>
+    <updated>2023-06-09T20:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-polish-call-me-l8er"/>
+    <title>GEL POLISH- CALL ME L8ER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_6712a633-1c3f-4067-8a2e-b8119b7c4478.jpg?v=1684859989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Soak off gel polish by NAILZBYDEV has a highly pigmented formula with long lasting wear! </p>
+<p><strong>Directions for use</strong>: Apply 1-2 coats to cured gel base coat or directly onto acrylic nail and cure! </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>CALL ME L8ER</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NEON</s:tag>
+    <s:tag>PINK</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>Y2K SUMMER SPLASH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029153919234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029208314114</id>
+    <published>2023-05-28T20:01:00-04:00</published>
+    <updated>2023-05-28T20:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/gel-primer"/>
+    <title>GEL PRIMER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_ed5b8447-a22c-4729-9cda-e2b054ef2006.jpg?v=1685136212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Acid free primer for prepping the nail for optional extra adhesion before applying base coat.</b></p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nail prep</s:tag>
+    <s:tag>primer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029208314114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029214933250</id>
+    <published>2023-05-28T20:00:07-04:00</published>
+    <updated>2023-05-28T20:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/nailzbydev-logo-towel"/>
+    <title>NAILZBYDEV MANICURE TOWEL</title>
+    <s:type>towel</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_edf7fea7-1b58-4db4-a1ae-2ee5f87a588e.jpg?v=1684865653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>towel<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14" x 30" bright pink logo towel!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>manicure</s:tag>
+    <s:tag>towel</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029214933250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029209559298</id>
+    <published>2023-05-28T20:00:06-04:00</published>
+    <updated>2023-05-28T20:00:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/90s-style-curved-tips"/>
+    <title>90&apos;S CURVED SQUARE TIPS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_8af2c83a-654c-490e-8635-bb941729281e.jpg?v=1684862072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">💅🏼💖</span><span class="s2" data-mce-fragment="1"><strong data-mce-fragment="1"> 90’s STYLE LONG SQUARE CURVED TIPS</strong></span><span class="s1" data-mce-fragment="1">💅🏼</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s3" data-mce-fragment="1">-Tips are strong, but thin on the nail plate so minimal etching is required. (Flushes nicely to the nail)</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s3" data-mce-fragment="1">-Clear color</span><span class="s4" data-mce-fragment="1">✨</span></p>
+<p class="p2" data-mce-fragment="1"><span class="s3" data-mce-fragment="1">-550 pieces!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nail</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>plastic</s:tag>
+    <s:tag>square</s:tag>
+    <s:tag>tip</s:tag>
+    <s:tag>tips</s:tag>
+    <s:tag>xxl</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029209559298</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8029136584962</id>
+    <published>2023-05-28T20:00:05-04:00</published>
+    <updated>2023-05-28T20:00:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/y2k-summer-splash-gel-collection"/>
+    <title>&quot;Y2K SUMMER SPLASH&quot; GEL COLLECTION</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/Facetune_22-05-2023-12-24-38.jpg?v=1684853704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><meta charset="utf-8"> <em><span style="color: #ff0089;">**PRE-ORDER (Y2K SUMMER SPLASH Collection releases June 9th, 8 pm est. ALL pre-orders will be shipped first priority after release) You will receive an email once your order ships! =)** Any orders with this product included will not ship until release</span></em></strong></p>
+<p><strong>Inspired by the Summertime in the early 2000's, this collection is one of a kind with a BOMB range of 16 vivid neon and vibrant shades including 2 glitter gels! Total of 18 colors.</strong><br><br><b></b></p>
+<p><strong><em>Collection includes:</em></strong></p>
+<p><strong>"CALL ME L8ER"</strong> - Hot pink with red undertones</p>
+<p><strong>"BUG A BOO"</strong> - Neon pink</p>
+<p><strong>"THAT'S HOTT"</strong> - Barbie pink</p>
+<p><strong>"THONG SONG"</strong> - Bright magenta pink</p>
+<p><strong>"FREAK A LEEK"</strong> - Bright coral</p>
+<p><strong>"HOT IN HERE"</strong> - Electric deep orange</p>
+<p><strong>"HEAT WAVE"</strong> - Neon orange</p>
+<p><strong>"SUNNY D"</strong> - Juicy orange</p>
+<p><strong>"SOAK UP THE SUN"</strong> - Sunflower yellow</p>
+<p><strong>"APPLE BOTTOM"</strong> - Granny Smith green </p>
+<p><strong>"SUPA SOAKER"</strong> - Summer green</p>
+<p><strong>"TOXIC"</strong> - Poppin' teal</p>
+<p><strong>"SLIP &amp; SLIDE"</strong> - Turquoise blue</p>
+<p><strong>"POOL PARTY"</strong> - Rich blue</p>
+<p><strong>"GET CRUNK"</strong> - Vibrant purple</p>
+<p><strong>"SO FLY"</strong>- Azure purple</p>
+<p><strong>"GRILLZ"</strong> - Luxe gold</p>
+<p><strong>"BLING BLING"</strong> - Icy silver</p>
+<p> <br><strong>Directions</strong>: Apply 1-2 coats of gel color to cured base coat or acrylic/gel nail extension and cure. <br><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p>💗15 ML 💗 CRUELTY FREE &amp; VEGAN</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000S</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>gel nail</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>gels</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>neons</s:tag>
+    <s:tag>soft gel</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>SUMMER SPLASH</s:tag>
+    <s:tag>Y2K</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8029136584962</id>
+      <title>Default Title</title>
+      <s:price currency="USD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1588</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/8030060183810</id>
+    <published>2023-05-24T10:36:24-04:00</published>
+    <updated>2023-05-24T10:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/trippy-gel-full-collection-15-ml"/>
+    <title>TRIPPY GEL FULL COLLECTION - 15 ML</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_d8c019f8-7b1d-4c7b-baab-73d1aa920aa5.jpg?v=1684937587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Full 18 color collection of our amazing 3D sculpting gels! (15ML each) This moldable gel is an easy way to achieve 3D art designs.</p>
+<p>The formula allows the nail artist to create their design with no time restraint before curing in the light. Create the same designs as with acrylic, without the hassle of working fast. </p>
+<p>Recommended to use with alcohol to allow more fluidity when working with this 3D gel, you can use 3D brush, slim shady brush, or silicone tools to carve and sculpt your designs! </p>
+<p><strong>INCLUDES</strong>: RED, ORANGE, YELLOW, NEON GREEN, GREEN, BABY BLUE, ROYAL BLUE, PURPLE, PINK, NEON PINK, FUCHSIA, BROWN, PEACH, LIGHT BEIGE, LIGHT NUDE, CLEAR, BLACK, WHITE</p>
+<p><strong>Cure Time LED/UV:</strong> <span style="text-decoration: underline;">LED:</span> 30-60 sec <span style="text-decoration: underline;">UV:</span> 60-120 sec *longer cure time for larger pieces, suggested in layers*<br>use gloves while working with this product*</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 ml</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3d gel</s:tag>
+    <s:tag>carving</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>FULL COLLECTION</s:tag>
+    <s:tag>molding</s:tag>
+    <s:tag>trippy gel</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/8030060183810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+  </entry>
+</feed>

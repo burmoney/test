@@ -1,0 +1,36 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jul 2023 21:04:26 at https://nailzbydev.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://nailzbydev.com -O1 "C:\Users\jesus\OneDrive\Desktop\nailz\www.nailzbydev.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:08:35	Error: 	"Not Found" (404) at link https://nailzbydev.com/GET (from https://nailzbydev.com/)
+21:08:35	Error: 	"Not Found" (404) at link https://nailzbydev.com/POST (from https://nailzbydev.com/)
+21:08:35	Error: 	"Error when decompressing" (-1) at link https://nailzbydev.com/cdn (from https://nailzbydev.com/)
+21:19:21	Error: 	"Not Found" (404) at link https://nailzbydev.com/pages/contact-us (from https://nailzbydev.com/)
+21:21:24	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/IMG_18693_224f7449-99e2-46ca-83cb-24c016439424_%7Bwidth%7Dx.jpg?v=1688235743 (from https://nailzbydev.com/)
+21:21:53	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/image_30c3b2bd-5578-48da-954e-3022428073e9_%7Bwidth%7Dx.jpg?v=1682370357 (from https://nailzbydev.com/)
+21:22:18	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_dd3cb2b3-c047-4467-bfd3-801fcfcf39a5_%7Bwidth%7Dx.jpg?v=1672259876 (from https://nailzbydev.com/)
+21:22:41	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/image_035e5687-40dd-4e3a-ab52-98e309d77d58_%7Bwidth%7Dx.jpg?v=1687538811 (from https://nailzbydev.com/)
+21:24:47	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/Facetune_22-05-2023-12-24-38_%7Bwidth%7Dx.jpg?v=1684853704 (from https://nailzbydev.com/)
+21:25:41	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_e5fbcbea-e54f-4bfb-b139-28e7fe0c7cf1_%7Bwidth%7Dx.jpg?v=1681341304 (from https://nailzbydev.com/)
+21:25:57	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_8f905cc2-1c48-414a-9960-44461c863c15_%7Bwidth%7Dx.jpg?v=1669690564 (from https://nailzbydev.com/)
+21:26:20	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_4a83777d-3dbd-4ed5-83cc-7a21bb0d08c4_%7Bwidth%7Dx.jpg?v=1642872727 (from https://nailzbydev.com/)
+21:26:55	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/36CF8164-A1FD-40E1-9DA4-4BD1B604508A_%7Bwidth%7Dx.jpg?v=1669266118 (from https://nailzbydev.com/)
+21:27:36	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/image_d8c019f8-7b1d-4c7b-baab-73d1aa920aa5_%7Bwidth%7Dx.jpg?v=1684937587 (from https://nailzbydev.com/)
+21:28:13	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_f469a114-bce0-44b9-b0d6-38912a2db3a8_%7Bwidth%7Dx.jpg?v=1684938150 (from https://nailzbydev.com/)
+21:30:02	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/image_9a4c82fc-95ad-46ea-a327-1ede6c1cae74_%7Bwidth%7Dx.jpg?v=1688242098 (from https://nailzbydev.com/)
+21:32:02	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_ea2d5423-336f-46a2-b013-1e5ef5d1995a_%7Bwidth%7Dx.jpg?v=1682262863 (from https://nailzbydev.com/)
+21:32:19	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/image_edf7fea7-1b58-4db4-a1ae-2ee5f87a588e_%7Bwidth%7Dx.jpg?v=1684865653 (from https://nailzbydev.com/)
+21:32:36	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_e66a8f36-97fa-4659-82b3-56493227e891_%7Bwidth%7Dx.jpg?v=1672259368 (from https://nailzbydev.com/)
+21:33:01	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/Facetune_28-09-2021-13-42-012_%7Bwidth%7Dx.jpg?v=1632851075 (from https://nailzbydev.com/)
+21:33:19	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/Facetune_28-09-2021-13-41-213_%7Bwidth%7Dx.jpg?v=1632851230 (from https://nailzbydev.com/)
+21:33:37	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_70ee22b7-a084-4059-9366-0b171c7be101_%7Bwidth%7Dx.jpg?v=1623950275 (from https://nailzbydev.com/)
+21:33:54	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/image_7ef64911-590c-4033-af71-f60f18841134_%7Bwidth%7Dx.jpg?v=1679425569 (from https://nailzbydev.com/)
+21:34:08	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/products/Facetune_09-12-2021-12-21-00_%7Bwidth%7Dx.jpg?v=1639164393 (from https://nailzbydev.com/)
+21:34:14	Error: 	"Not Found" (404) at link https://nailzbydev.com/cdn/shop/files/A68DCFD7-7353-4140-B4A9-BACD47060124_%7Bwidth%7Dx.jpg?v=1676737856 (from https://nailzbydev.com/)
+21:37:45	Error: 	"Not Found" (404) at link https://nailzbydev.com/en-ca/pages/contact-us (from https://nailzbydev.com/en-ca)
+21:42:31	Error: 	"Not Found" (404) at link https://nailzbydev.com/en-gb/pages/contact-us (from https://nailzbydev.com/en-gb)
+21:48:31	Error: 	"Not Found" (404) at link https://nailzbydev.com/en-au/pages/contact-us (from https://nailzbydev.com/en-au)

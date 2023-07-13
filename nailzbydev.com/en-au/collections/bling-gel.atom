@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-au/collections/bling-gel.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2021-12-04T19:59:09-05:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/7486015373570</id>
+    <published>2021-12-04T19:59:09-05:00</published>
+    <updated>2021-12-04T19:59:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/bling-bundle"/>
+    <title>BLING BUNDLE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_e85999b2-0dc1-4d2b-b85a-5a3e9fc2c6c8.jpg?v=1638652556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>✨BLING GEL ADHESIVE AND BLING THING PICK UP STICK!✨</p>
+<p><strong>BLING GEL-</strong>This is my favorite gel glue for applying stones and keeping them on for weeks! </p>
+<p><span><strong>‼️PLEASE NOTE-</strong></span><strong> The packaging we ordered for the gel glue was larger than the amount inside, but there is still 16 grams of product in tube as listed!</strong></p>
+<p><strong>-Cure in LED light for 60-120 sec // UV light for 120-240 sec❤️</strong></p>
+<p><strong>THE BLING THING-</strong> A double ended rose gold crystal pick up tool! <br data-mce-fragment="1">The wax end is for picking up and placing crystals, the pointy end for moving crystals into place 💎💖</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bling</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>holiday</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/7486015373570</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-au/products/7462131204354</id>
+    <published>2021-12-04T19:59:06-05:00</published>
+    <updated>2021-12-04T19:59:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-au/products/bling-gel-us-only"/>
+    <title>BLING GEL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_19-11-2021-23-09-24.jpg?v=1637420804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is my favorite TACK FREE gel glue for applying stones and keeping them on for weeks! </p>
+<p><span style="text-decoration: underline;"><strong>‼️PLEASE NOTE-</strong></span><strong> The packaging we ordered for the gel glue was larger than the amount inside, but there is still 16 grams of product in tube as listed!</strong></p>
+<p><strong>-Cure in LED light for 60-120 sec // UV light for 120-240 sec❤️</strong></p>
+<p>-Apply gel glue in desired spot for stones, make sure your stones are pressed into the gel and cure in your lamp. My secret is to go around the stone edges after with a NO-WIPE topcoat to seal any spots that you may have missed! </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adhesive</s:tag>
+    <s:tag>bling</s:tag>
+    <s:tag>crystal</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>gel nail</s:tag>
+    <s:tag>glue</s:tag>
+    <s:tag>stone</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-au/products/7462131204354</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+</feed>

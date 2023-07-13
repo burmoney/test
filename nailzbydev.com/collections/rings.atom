@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/collections/rings.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2022-09-25T01:30:12-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/products/7764878754050</id>
+    <published>2022-09-25T01:30:12-04:00</published>
+    <updated>2022-09-25T01:30:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/link-up-ring"/>
+    <title>LINK UP RING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_1a6dd66f-2500-4087-beaf-1841709258e9.heic?v=1659760205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 6 💗 acrylic/resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHAIN</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>LETS</s:tag>
+    <s:tag>LINK</s:tag>
+    <s:tag>RING</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764878754050</id>
+      <title>PINK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764878754050</id>
+      <title>BLUE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764878754050</id>
+      <title>GREEN</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7764875608322</id>
+    <published>2022-09-25T01:30:11-04:00</published>
+    <updated>2022-09-25T01:30:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/yin-yang-ring"/>
+    <title>YIN YANG RING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_7c3aedb0-cdc2-4992-a960-1e89e90504cb.heic?v=1659759949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 6 ☯️ Acrylic/resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jewelry</s:tag>
+    <s:tag>RING</s:tag>
+    <s:tag>YANG</s:tag>
+    <s:tag>YIN</s:tag>
+    <s:tag>YING</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764875608322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7764872364290</id>
+    <published>2022-09-25T01:30:11-04:00</published>
+    <updated>2022-09-25T01:30:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/frost-link-ring"/>
+    <title>FROST LINK RING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_8dfb003e-3cac-43d9-8c10-2f887efea9e8.heic?v=1659759651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 8 💖 acrylic/resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHAIN</s:tag>
+    <s:tag>FROST</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>LINK</s:tag>
+    <s:tag>RING</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764872364290</id>
+      <title>PINK</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764872364290</id>
+      <title>BLUE</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764872364290</id>
+      <title>MULTI</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7764866531586</id>
+    <published>2022-09-25T01:30:10-04:00</published>
+    <updated>2022-09-25T01:30:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/i-spy-ring"/>
+    <title>I SPY RING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_5e363631-2539-47ea-aa52-220d3022255a.heic?v=1659759296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 6 1/2👁 acrylic / resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EYE</s:tag>
+    <s:tag>HALLOWEEN</s:tag>
+    <s:tag>I</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>RESIN</s:tag>
+    <s:tag>RING</s:tag>
+    <s:tag>SPY</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764866531586</id>
+      <title>CLEAR</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764866531586</id>
+      <title>PINK</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764866531586</id>
+      <title>BLUE/PURP</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7764857815298</id>
+    <published>2022-09-25T01:30:10-04:00</published>
+    <updated>2022-09-25T01:30:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/smiley-ring"/>
+    <title>SMILEY RING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_711db147-05fc-41a4-831e-aeddd8d41661.heic?v=1659758649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 6 1/2 💗 acrylic/resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EYE</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>RING</s:tag>
+    <s:tag>SMILEY</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764857815298</id>
+      <title>PINK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764857815298</id>
+      <title>YELLOW/GREEN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764857815298</id>
+      <title>BLUE/PURP</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7764849787138</id>
+    <published>2022-09-25T01:30:09-04:00</published>
+    <updated>2022-09-25T01:30:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/osiris-ring"/>
+    <title>OSIRIS RING</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_bb7badee-4d84-4bc4-9913-779b37268079.jpg?v=1664083653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Size 7</p>
+<p>acrylic resin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>EYE</s:tag>
+    <s:tag>jewelry</s:tag>
+    <s:tag>OSIRIS</s:tag>
+    <s:tag>RING</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764849787138</id>
+      <title>PINK</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764849787138</id>
+      <title>GREEN</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764849787138</id>
+      <title>PURPLE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7764849787138</id>
+      <title>ORANGE</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+</feed>

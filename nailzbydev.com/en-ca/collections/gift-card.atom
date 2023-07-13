@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-ca/collections/gift-card.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2022-12-08T14:40:51-05:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7901897195778</id>
+    <published>2022-12-08T14:40:51-05:00</published>
+    <updated>2022-12-08T14:40:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/gift-card"/>
+    <title>GIFT CARDS- $25-$150</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_7f33297e-7d55-4624-8f02-0738f0125ea0.jpg?v=1670528047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00 - 150.00
+            <a href="https://nailzbydev.com/en-ca/products/gift-card">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gift someone a NAILZBYDEV gift card this great for Birthdays, special events, or the Holiday season!</p>
+<p> </p>
+<p>*gift cards are eligible for online purchases only*</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gift card</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7901897195778</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7901897195778</id>
+      <title>$50.00</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7901897195778</id>
+      <title>$75.00</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7901897195778</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7901897195778</id>
+      <title>$150.00</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

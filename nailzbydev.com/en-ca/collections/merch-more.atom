@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-ca/collections/merch-more.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2023-05-28T20:00:07-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/8029214933250</id>
+    <published>2023-05-28T20:00:07-04:00</published>
+    <updated>2023-05-28T20:00:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/nailzbydev-logo-towel"/>
+    <title>NAILZBYDEV MANICURE TOWEL</title>
+    <s:type>towel</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_edf7fea7-1b58-4db4-a1ae-2ee5f87a588e.jpg?v=1684865653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>towel<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14" x 30" bright pink logo towel!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>manicure</s:tag>
+    <s:tag>towel</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/8029214933250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+    <published>2023-04-01T19:59:34-04:00</published>
+    <updated>2023-04-01T19:59:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/copy-of-i-slay-nails-tee-3"/>
+    <title>NAILZBYDEV LOGO TEE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_64421fc4-67df-40cb-9b30-57c83614fcfc.heic?v=1680108838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nailzbydev logo T-shirt 💕🌈</p>
+<p>100% cotton</p>
+<p>Thick, High quality material! </p>
+<p>Wash inside out on cold, dry normal </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>merch</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>NAILZBYDEV</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>t</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+      <title>S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+      <title>XXL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385101570</id>
+      <title>XXXL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+    <published>2023-04-01T19:59:33-04:00</published>
+    <updated>2023-04-01T19:59:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/copy-of-i-slay-nails-tee-2"/>
+    <title>NAIL ADDICT TEE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_686ac243-4eec-4831-83ca-6a841516bb43.heic?v=1680109145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NAIL ADDICT LOGO TEE💅🏻💅🏽💅🏿</p>
+<p>100% cotton</p>
+<p>Thick, High quality material! </p>
+<p>Wash inside out on cold, dry normal </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>merch</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>nail addict</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>t</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>top</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+      <title>S</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+      <title>M</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+      <title>L</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+      <title>XL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+      <title>XXL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7989385068802</id>
+      <title>XXXL</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7800683626754</id>
+    <published>2022-09-25T08:58:42-04:00</published>
+    <updated>2022-09-25T08:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/i-slay-nails-sticker"/>
+    <title>&quot;I SLAY NAILS&quot; STICKER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_12-09-2022-10-51-49.jpg?v=1662994360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">I SLAY NAILS HOLOGRAPHIC STICKER</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween</s:tag>
+    <s:tag>I SLAY NAILS</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7800683626754</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7712385925378</id>
+    <published>2022-06-11T15:14:45-04:00</published>
+    <updated>2022-06-11T15:14:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/nail-addict-tie-dye-crop-top"/>
+    <title>NAIL ADDICT TIE DYE CROP TOP</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_52cc5d86-8b72-4f67-b2a4-323b9e9ec964.jpg?v=1654974474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Cute NAIL ADDICT tie-dye crop top!</strong> 💘🌈</p>
+<p>•95% cotton / 5% spandex</p>
+<p>•High quality - wash cold!</p>
+<p>•In this photo Dev is wearing a size <strong>Small</strong> and is 5’8”</p>
+<p>•<em>At this time we are not accepting returns or exchanges on clothing</em>💗</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>addict</s:tag>
+    <s:tag>clothing</s:tag>
+    <s:tag>crop</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>merch</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>shirt</s:tag>
+    <s:tag>t</s:tag>
+    <s:tag>tee</s:tag>
+    <s:tag>tie dye</s:tag>
+    <s:tag>top</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7712385925378</id>
+      <title>Small</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7712385925378</id>
+      <title>Medium</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7712385925378</id>
+      <title>Large</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7712385925378</id>
+      <title>XXL</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7662925021442</id>
+    <published>2022-04-20T14:19:36-04:00</published>
+    <updated>2022-04-20T14:19:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/nail-addict-bubbles-sticker"/>
+    <title>NAIL ADDICT BUBBLES STICKER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_cfdc5609-abe3-431f-bad8-4b6c72a424d9.jpg?v=1650478775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute Nail Addict sticker size 4x2.5”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>addict</s:tag>
+    <s:tag>bubbles</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>powerpuff</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7662925021442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7525094228226</id>
+    <published>2021-12-30T15:42:03-05:00</published>
+    <updated>2021-12-30T15:42:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/cuticle-oil-pen"/>
+    <title>CUTICLE OIL PEN</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_bb02ec72-2073-45e7-9d0a-844523b4c7eb.jpg?v=1640896419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Don’t look crusty babe! Hydrate those cuticles using the NEW cuticle oil pens available in two scents! Cotton Candy 🍭 and Lavender 💜 </p>
+<p> ✨Contains  Grapeseed oil 💗 Jojoba oil 💗 Vitamin oil  💗 Premium fragrance oil </p>
+<p>✨Promotes nail growth, hydrates cuticles and skin around nail— greatly improving the overall appearance of your nails!🥰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7525094228226</id>
+      <title>COTTON CANDY🍭</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7525094228226</id>
+      <title>LAVENDER💜</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7525094228226</id>
+      <title>WATERMELON</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/5006391541804</id>
+    <published>2020-04-11T20:19:59-04:00</published>
+    <updated>2020-04-11T20:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/nail-addict-sticker"/>
+    <title>NAIL ADDICT sticker</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_cd13d7b5-6254-4a41-96cc-28d699201fe2.jpg?v=1586651765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nail Addicts Holographic sticker! A collab between @Nailz_by_dev and credit to tattoo artist @illustday for the Artwork! Size is 3” x 2”</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/5006391541804</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+</feed>

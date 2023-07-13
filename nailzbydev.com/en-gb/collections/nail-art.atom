@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-gb/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-gb/collections/nail-art.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2023-07-01T16:21:21-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/8062869143810</id>
+    <published>2023-07-01T16:21:21-04:00</published>
+    <updated>2023-07-01T16:21:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/rave-girl-glitter-1"/>
+    <title>RAVE GiRL glitter</title>
+    <s:type>GLITTER</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_40c9edd8-8ed7-48dc-9412-e33cd725799d.jpg?v=1688242849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GLITTER<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 SLOTS OF NEON DAISY GLITTERZ</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>daisy</s:tag>
+    <s:tag>flower</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>rave</s:tag>
+    <s:tag>summer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8062869143810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/8009014870274</id>
+    <published>2023-04-28T19:59:30-04:00</published>
+    <updated>2023-04-28T19:59:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/metallic-foils-1"/>
+    <title>METAL FOILS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_579a736e-2de0-4b9a-9cbf-08b5a02e1e9c.jpg?v=1682523318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>10 different cute transfer foils!💞</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>designer</s:tag>
+    <s:tag>foil</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>holographic</s:tag>
+    <s:tag>metallic</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>rose gold</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009014870274</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/8009012019458</id>
+    <published>2023-04-28T19:59:30-04:00</published>
+    <updated>2023-04-28T19:59:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/holo-dreams-foils"/>
+    <title>HOLO DREAMS FOILS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_a129cd3b-9097-4276-81cf-fb04d9a47850.jpg?v=1682523083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>10 different cute transfer foils!💞</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>designer</s:tag>
+    <s:tag>dreams</s:tag>
+    <s:tag>foil</s:tag>
+    <s:tag>holo</s:tag>
+    <s:tag>holographic</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>zebra</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009012019458</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/8009009561858</id>
+    <published>2023-04-28T19:59:30-04:00</published>
+    <updated>2023-04-28T19:59:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/funkadelic-foils"/>
+    <title>FUNKADELIC FOILS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_b169f73a-d007-430d-be56-8aadd8d30e92.jpg?v=1682522769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>10 different cute transfer foils!💞👽</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>designer</s:tag>
+    <s:tag>foil</s:tag>
+    <s:tag>funkadelic</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>oil slick</s:tag>
+    <s:tag>psychedelic</s:tag>
+    <s:tag>trippy</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009009561858</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/8009005990146</id>
+    <published>2023-04-28T19:59:29-04:00</published>
+    <updated>2023-04-28T19:59:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/spring-summer-pearls"/>
+    <title>SPRING/SUMMER PEARLS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_5b9a6b06-9c7c-4c6f-9c98-d38ee4cadc47.jpg?v=1682522419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>1 pack of Spring/Summer pearls charms💓</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>charm</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>nailart</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>pearl</s:tag>
+    <s:tag>pearls</s:tag>
+    <s:tag>SUMMER</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009005990146</id>
+      <title>BABY BLUE</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009005990146</id>
+      <title>CORAL</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009005990146</id>
+      <title>HOTT PINK</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku/>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/8009005990146</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7991512727810</id>
+    <published>2023-04-01T19:59:35-04:00</published>
+    <updated>2023-04-01T19:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/frosted-heart-nail-tip-stand"/>
+    <title>FROSTED HEART NAIL TIP STAND</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_21-03-2023-13-41-52.jpg?v=1680391480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Includes one magnet tip holder and stand!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crystal</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>hearts</s:tag>
+    <s:tag>holder</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>stand</s:tag>
+    <s:tag>tip</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7991512727810</id>
+      <title>PINK</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7991512727810</id>
+      <title>BLUE</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957182808322</id>
+    <published>2023-04-01T19:59:35-04:00</published>
+    <updated>2023-04-01T19:59:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/pink-black-y2k-glitter"/>
+    <title>Y2K PUNK GLITTER</title>
+    <s:type>GLITTER</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c9c539ba-ebca-4a2e-b43a-220ea18f0009.jpg?v=1676665008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GLITTER<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Different shaped black/pink/white Y2K glitters💕💘</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>hearts</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>Y2K</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957182808322</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7991501488386</id>
+    <published>2023-04-01T19:59:34-04:00</published>
+    <updated>2023-04-01T19:59:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/rich-betch-foil"/>
+    <title>RICH BETCH FOIL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_02ff57f1-8530-4a63-9194-5badd3172fa8.jpg?v=1680389394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>10 different cute transfer foils!💞🦓🐆</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>designer</s:tag>
+    <s:tag>foil</s:tag>
+    <s:tag>logo</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>rich</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7991501488386</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7980885115138</id>
+    <published>2023-04-01T19:59:33-04:00</published>
+    <updated>2023-04-01T19:59:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/spring-into-summer-charms"/>
+    <title>SPRING INTO SUMMER CHARMS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_502ed022-a1c6-4f8c-9a7a-7340494560ad.jpg?v=1679424941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 of my personal top favorite nail charms for the Spring and Summer! 🍭🧚🏻‍♂️🌈💕</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bear</s:tag>
+    <s:tag>charm</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>gummy</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>summer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7980885115138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7980881477890</id>
+    <published>2023-04-01T19:59:32-04:00</published>
+    <updated>2023-04-01T19:59:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/spring-heart-charms"/>
+    <title>SPRING HEART CHARMS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_5dbe3d4b-4032-4977-9c19-e0d0a9abf66f.jpg?v=1679424326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cute iridescent hearts and lollipop charms 🍭💘</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>charm</s:tag>
+    <s:tag>cute</s:tag>
+    <s:tag>hearts</s:tag>
+    <s:tag>iridescent</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7980881477890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975482622210</id>
+    <published>2023-04-01T19:59:29-04:00</published>
+    <updated>2023-04-01T19:59:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/summer-butterfly-glitter"/>
+    <title>SUMMER BUTTERFLY GLITTER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_b74edd22-6c2d-4a91-9d0b-a9f5f12f69d6.jpg?v=1678833177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 Different colors butterfly glitter 🦋 </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>butterflies</s:tag>
+    <s:tag>butterfly</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>holo</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975482622210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975480590594</id>
+    <published>2023-04-01T19:59:28-04:00</published>
+    <updated>2023-04-01T19:59:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/metallic-foils"/>
+    <title>METALLIC FOILS</title>
+    <s:type>Foil</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_b1551678-3792-4b4e-ae2c-8073d9eb718f.heic?v=1678833052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Foil<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">12 different metallic loose foils!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ART</s:tag>
+    <s:tag>FOIL</s:tag>
+    <s:tag>metallic</s:tag>
+    <s:tag>NAIL</s:tag>
+    <s:tag>TRANSFER</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975480590594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975477149954</id>
+    <published>2023-04-01T19:59:28-04:00</published>
+    <updated>2023-04-01T19:59:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/bubblegum-sticky-tack"/>
+    <title>BUBBLEGUM STICKY TACK</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_5cded483-4979-4f4d-af07-41a7a3be18d5.jpg?v=1678832988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Pick sticky tack for sticking false practice nails to tip stands!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>putty</s:tag>
+    <s:tag>sticky</s:tag>
+    <s:tag>tack</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975477149954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975472791810</id>
+    <published>2023-04-01T19:59:27-04:00</published>
+    <updated>2023-04-01T19:59:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/summer-hearts-glitter"/>
+    <title>NEON SUMMER HEARTS GLITTER</title>
+    <s:type>GLITTER</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_40581a77-2f10-4c97-8888-cca8fd71f242.jpg?v=1678833097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GLITTER<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🌈🌸 12 SLOTS OF NEON/HOLO HEARTS GLITTER 🌸🌈</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glitter</s:tag>
+    <s:tag>HEARTS</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>summer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975472791810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975471087874</id>
+    <published>2023-04-01T19:59:27-04:00</published>
+    <updated>2023-04-01T19:59:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/holo-foils"/>
+    <title>HOLO FOILS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_561915e3-d044-494d-aaaa-10fe2ab8f18d.jpg?v=1678833008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p><span>10 different cute HOLO transfer foils!💞</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>foil</s:tag>
+    <s:tag>holo</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975471087874</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975454310658</id>
+    <published>2023-04-01T19:59:26-04:00</published>
+    <updated>2023-04-01T19:59:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/6-piece-holo-glitter"/>
+    <title>6 PIECE HOLO GLITTER</title>
+    <s:type>glitter</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_1975093a-0122-4062-8bdb-92078868ae63.jpg?v=1678831372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>glitter<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">6 Pieces of fine holographic glitters! Great for sugaring or encapsulating in acrylic or gel!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GLITTER</s:tag>
+    <s:tag>HOLO</s:tag>
+    <s:tag>HOLOGRAPHIC</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975454310658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975448314114</id>
+    <published>2023-04-01T19:59:26-04:00</published>
+    <updated>2023-04-01T19:59:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/iridescent-film"/>
+    <title>IRIDESCENT FILM</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c00ad12a-0550-4a9a-8a5d-a6b9d23cfd72.jpg?v=1678831440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">11 sheets of iridescent film for encapsulating in acrylic or gel!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DECAL</s:tag>
+    <s:tag>film</s:tag>
+    <s:tag>iridescent</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975448314114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957191590146</id>
+    <published>2023-04-01T19:59:22-04:00</published>
+    <updated>2023-04-01T19:59:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/color-changing-spring-charms"/>
+    <title>COLOR CHANGING SPRING CHARMS</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_61f1643b-c13e-46e8-96f4-c6792c3bf6ac.jpg?v=1676667261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Temperature activated color changing nail charms! 💕✨</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>charm</s:tag>
+    <s:tag>color changing</s:tag>
+    <s:tag>decoration</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>nailart</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>pearl</s:tag>
+    <s:tag>temperature</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957191590146</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957183136002</id>
+    <published>2023-04-01T19:59:21-04:00</published>
+    <updated>2023-04-01T19:59:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/silver-gold-star-glitter"/>
+    <title>SILVER/GOLD STAR GLITTER</title>
+    <s:type>GLITTER</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c156f965-c147-44f8-8121-35042febb3c8.heic?v=1676665204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GLITTER<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 slots of holographic silver and gold glitter!✨</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glitter</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>star</s:tag>
+    <s:tag>twinkle</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957183136002</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957168619778</id>
+    <published>2023-04-01T19:59:21-04:00</published>
+    <updated>2023-04-01T19:59:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/red-hearts-glitter"/>
+    <title>RED HEARTS GLITTER</title>
+    <s:type>GLITTER</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_b89281ee-bcb8-46e7-ab70-70ed61e284ba.jpg?v=1676664907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GLITTER<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 Different size/shaped heart glitters❤️</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glitter</s:tag>
+    <s:tag>hearts</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957168619778</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku/>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957166358786</id>
+    <published>2023-04-01T19:59:20-04:00</published>
+    <updated>2023-04-01T19:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-butterfly-stickers"/>
+    <title>AIRBRUSH BUTTERFLY STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_310a0470-57f0-461d-8ff5-09e498dc9f7a.jpg?v=1676661020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>butterfly</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957166358786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957166326018</id>
+    <published>2023-04-01T19:59:20-04:00</published>
+    <updated>2023-04-01T19:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-star-stickers"/>
+    <title>AIRBRUSH STAR STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_81f2c64d-743c-44aa-920c-36b0ecf63392.jpg?v=1676661087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>star</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957166326018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957166293250</id>
+    <published>2023-04-01T19:59:20-04:00</published>
+    <updated>2023-04-01T19:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-twinkle-stickers"/>
+    <title>AIRBRUSH TWINKLE STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_f0f5b23e-1795-4076-966d-0afcf7c787ce.jpg?v=1676661123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:tag>twinkle</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957166293250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7940842684674</id>
+    <published>2023-01-27T19:59:22-05:00</published>
+    <updated>2023-01-27T19:59:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-hearts-stickers"/>
+    <title>AIRBRUSH HEARTS STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_5af7b42c-fa47-408b-82db-d9051ba0c85d.heic?v=1674833472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>hearts</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7940842684674</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7939974922498</id>
+    <published>2023-01-27T19:59:21-05:00</published>
+    <updated>2023-01-27T19:59:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/twinkle-glitter"/>
+    <title>TWINKLE GLITTER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_4f9c3997-8442-4762-b93f-0170d6065f7a.jpg?v=1674754181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12 colors of Holo Twinkle Glitter ✨</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decoration</s:tag>
+    <s:tag>glitter</s:tag>
+    <s:tag>holo</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>stars</s:tag>
+    <s:tag>twinkle</s:tag>
+    <s:tag>twinkles</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7939974922498</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

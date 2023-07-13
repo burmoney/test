@@ -1,0 +1,1285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-ca/collections/liner-gels.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2023-07-01T16:33:24-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/8062873600258</id>
+    <published>2023-07-01T16:33:24-04:00</published>
+    <updated>2023-07-01T16:33:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-gold-digger-2"/>
+    <title>LINER GEL- GOLD DIGGER</title>
+    <s:type>GEL</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_fed50dd7-5fc1-474a-bb24-3785159751da.jpg?v=1688243473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GEL<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Highly pigmented sparkly liner gel for line work and details!</p>
+<p><strong>-Cure time</strong>- 30-<em>60 </em>sec<strong> LED</strong> // <span style="text-decoration: underline;">120</span> sec <strong>UV</strong></p>
+<p><strong>-5 g</strong></p>
+<p><strong>-Cruelty Free🐰</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ART</s:tag>
+    <s:tag>DESIGN</s:tag>
+    <s:tag>digger</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>PAINT</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/8062873600258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7990281830658</id>
+    <published>2023-04-01T19:59:34-04:00</published>
+    <updated>2023-04-01T19:59:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/full-liner-gel-collection"/>
+    <title>FULL LINER GEL COLLECTION</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/IMG_0039.jpg?v=1680231249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            285.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>INCLUDES 22 LINER GELS!</p>
+<p>STRAWBERRY MILK, LUCKY CHARM, COTTON CANDY, SWEET LILAC, CREAMSICLE, BANANA SMOOTHIE, GRAPE SODA, HIGHLIGHTER, BLUE DA BA DEE, SLIME TIME, SOLO CUP, SPICE GIRL, GENIE IN A BOTTLE, LIMEWIRE, OOPS I DID IT AGAIN, NICK SPLAT, ALL THAT, BADDEST BLACK, LEVEL UP WHITE, PLATINUM, GOLD DIGGER, SO ICY</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>*SO ICY, GOLD DIGGER, AND PLATINUM ARE 4 ML.*</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>FULL COLLECTION</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>PAINT</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7990281830658</id>
+      <title>Default Title</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>383</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975632240898</id>
+    <published>2023-04-01T19:59:32-04:00</published>
+    <updated>2023-04-01T19:59:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/the-sweet-pastels-collection"/>
+    <title>THE SWEET PASTELS COLLECTION</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_316771e0-7b16-4384-8a9c-bc3bbcd2fb6b.jpg?v=1679547189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>INCLUDES ALL 6 PASTEL LINER GELS!</p>
+<p>COTTON CANDY, LUCKY CHARM, CREAMSICLE, BANANA SMOOTHIE, SWEET LILAC, STRAWBERRY MILK</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>banana smoothie</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>creamsicle</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>LUCKY CHARM</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>strawberry milk</s:tag>
+    <s:tag>sweet lilac</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975632240898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975630864642</id>
+    <published>2023-04-01T19:59:31-04:00</published>
+    <updated>2023-04-01T19:59:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-strawberry-milk"/>
+    <title>LINER GEL- STRAWBERRY MILK</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_29ec0845-9797-49fb-a208-85a8250d586a.jpg?v=1679373738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>STRAWBERRY MILK</b>- A soft baby pink! Part of the SWEET PASTELS collection!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>lilac</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>strawberry milk</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975630864642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975629226242</id>
+    <published>2023-04-01T19:59:31-04:00</published>
+    <updated>2023-04-01T19:59:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-sweet-lilac"/>
+    <title>LINER GEL- SWEET LILAC</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_51d939e4-5539-426f-b578-0b8f3775d434.jpg?v=1679373752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>SWEET LILAC</b>- A pastel lilac/purple! Part of the SWEET PASTELS collection!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>lavender</s:tag>
+    <s:tag>lilac</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>sweet lilac</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975629226242</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975628407042</id>
+    <published>2023-04-01T19:59:31-04:00</published>
+    <updated>2023-04-01T19:59:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-banana-smoothie"/>
+    <title>LINER GEL- BANANA SMOOTHIE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c1508e18-afe8-468a-be77-b6615397edd2.jpg?v=1679373564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>BANANA SMOOTHIE</b>- A light yellow! Part of the SWEET PASTELS collection!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>banana smoothie</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975628407042</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975628079362</id>
+    <published>2023-04-01T19:59:30-04:00</published>
+    <updated>2023-04-01T19:59:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-creamsicle"/>
+    <title>LINER GEL- CREAMSICLE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_53f82482-3428-4ebf-93e5-076875ed6b40.jpg?v=1679373710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>CREAMSICLE</b>- A creamy orange! Part of the SWEET PASTELS collection!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>creamsicle</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975628079362</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975627030786</id>
+    <published>2023-04-01T19:59:30-04:00</published>
+    <updated>2023-04-01T19:59:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-lucky-charm"/>
+    <title>LINER GEL- LUCKY CHARM</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_f10607de-cd76-40ac-a0d4-2645e5f1e31e.jpg?v=1679373723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LUCKY CHARM</strong>- A mint green! Part of the SWEET PASTELS collection!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>lucky charm</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975627030786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7975625883906</id>
+    <published>2023-04-01T19:59:29-04:00</published>
+    <updated>2023-04-01T19:59:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-cotton-candy-1"/>
+    <title>LINER GEL- COTTON CANDY</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_e1ff7a36-ca2a-42e1-bde7-e6ea69bc5376.jpg?v=1679373696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>COTTON CANDY</strong>- A pastel blue! Part of the SWEET PASTELS collection!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>cotton candy</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>sweet pastels</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7975625883906</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7918127874306</id>
+    <published>2022-12-28T15:29:22-05:00</published>
+    <updated>2022-12-28T15:29:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/black-white-art-bundle"/>
+    <title>BLACK &amp; WHITE art bundle</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_e66a8f36-97fa-4659-82b3-56493227e891.jpg?v=1672259368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🖤🤍🖤BLACK &amp; WHITE art bundle includes our best selling Black and White liner gels, along with our Black and White bottled gel colors! Also includes three nail art brushes:</p>
+<p>•Hella Cute liner brush- 15 mm long liner brush, great for linework, details, and painting all types of nail art.</p>
+<p>•Lil’ Baby Blender brush- small blending brush for shading/blending small areas, and erasing small mistakes!</p>
+<p>•As IF! Ombre brush- Amazing for doing gel ombre! Also a great clean up brush 💖</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>as if ombre</s:tag>
+    <s:tag>Baddest</s:tag>
+    <s:tag>beginner</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>brush</s:tag>
+    <s:tag>bundle</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>hella cute</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>lil baby</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7918127874306</id>
+      <title>Default Title</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7891604832514</id>
+    <published>2022-12-01T19:28:07-05:00</published>
+    <updated>2022-12-01T19:28:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-so-icy"/>
+    <title>LINER GEL- SO ICY</title>
+    <s:type>GEL</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c6928666-56c1-4c94-97f5-4cf13d3a9860.jpg?v=1669601965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GEL<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Highly pigmented sparkly liner gel for line work and details!</p>
+<p><strong>-Cure time</strong>- 30-<em>60 </em>sec<strong> LED</strong> // <span style="text-decoration: underline;">120</span> sec <strong>UV</strong></p>
+<p><strong>-5 g</strong></p>
+<p><strong>-Cruelty Free🐰</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ART</s:tag>
+    <s:tag>DESIGN</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>PAINT</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:tag>SO ICY</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7891604832514</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7891604603138</id>
+    <published>2022-12-01T19:28:06-05:00</published>
+    <updated>2022-12-01T19:28:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-platinum"/>
+    <title>LINER GEL- PLATINUM</title>
+    <s:type>GEL</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_e79388f4-3fcf-470d-a705-2e5c5eb44cbf.jpg?v=1669601947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>GEL<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Highly pigmented sparkly liner gel for line work and details!</p>
+<p><strong>-Cure time</strong>- 30-<em>60 </em>sec<strong> LED</strong> // <span style="text-decoration: underline;">120</span> sec <strong>UV</strong></p>
+<p><strong>-5 g</strong></p>
+<p><strong>-Cruelty Free🐰</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ART</s:tag>
+    <s:tag>DESIGN</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>PAINT</s:tag>
+    <s:tag>PLATINUM</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7891604603138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7710371053826</id>
+    <published>2022-06-10T19:59:01-04:00</published>
+    <updated>2022-06-10T19:59:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/molten-metal-gel-paint"/>
+    <title>MOLTEN METAL GEL PAINT</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_4ec462be-b466-49a3-9516-bd81872a953c.jpg?v=1654739069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">MOLTEN METAL PAINT BY @SISSIOFFICIAL_</p>
+<p data-mce-fragment="1">• 5g<br></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">• LED/UV curable <br data-mce-fragment="1">• No mess chrome paint<br data-mce-fragment="1"></span><span data-mce-fragment="1">• Highly pigmented / perfect for nail art &amp; detailing <br data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Cure for 2-3 minutes - depending on thickness of application, store product on a flat surface to avoid mess.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHROME</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>METAL</s:tag>
+    <s:tag>MIRROR</s:tag>
+    <s:tag>MOLTEN</s:tag>
+    <s:tag>PAINT</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>SILVER</s:tag>
+    <s:tag>SISSI</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7710371053826</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7705582797058</id>
+    <published>2022-06-10T19:59:01-04:00</published>
+    <updated>2022-06-10T19:59:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/the-y2k-summer-collection"/>
+    <title>THE Y2K SUMMER LINER COLLECTION</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/70275242-B31B-4786-8AA5-A1F507363E10.jpg?v=1654456625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>INCLUDES ALL 6 LINER GELS!</p>
+<p>SPICE GIRL - GRAPE SODA - BLUE DA BA DEE - SOLO CUP - SLIME TIME - HIGHLIGHTER</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>y2k</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7705582797058</id>
+      <title>Default Title</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7698733433090</id>
+    <published>2022-06-10T19:59:00-04:00</published>
+    <updated>2022-06-10T19:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-slime-time"/>
+    <title>LINER GEL- SLIME TIME</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_26-05-2022-17-37-52.jpg?v=1653608882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A deep vibrant purple.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>soda</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>y2k</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7698733433090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7698732089602</id>
+    <published>2022-06-10T19:58:59-04:00</published>
+    <updated>2022-06-10T19:58:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-grape-soda"/>
+    <title>LINER GEL- GRAPE SODA</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_26-05-2022-17-38-27.jpg?v=1653608761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A deep vibrant purple.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>grape</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>purple</s:tag>
+    <s:tag>soda</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>y2k</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7698732089602</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7698731335938</id>
+    <published>2022-06-10T19:58:59-04:00</published>
+    <updated>2022-06-10T19:58:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-spice-girl"/>
+    <title>LINER GEL- SPICE GIRL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_26-05-2022-17-39-25.jpg?v=1653608219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A bright magenta/neon pink!</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>girl</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>spice</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>y2k</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7698731335938</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7698730877186</id>
+    <published>2022-06-10T19:58:59-04:00</published>
+    <updated>2022-06-10T19:58:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-blue-da-ba-dee"/>
+    <title>LINER GEL- BLUE DA BA DEE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_26-05-2022-17-39-06.jpg?v=1653608040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>IM BLUE DA BA DEE DA BA DIEE---well you get it.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>ba</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>da</s:tag>
+    <s:tag>dee</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>y2k</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7698730877186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7698729632002</id>
+    <published>2022-06-10T19:58:58-04:00</published>
+    <updated>2022-06-10T19:58:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-solo-cup"/>
+    <title>LINER GEL- SOLO CUP</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_26-05-2022-17-39-37.jpg?v=1653607805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SOLO CUP- A vibrant TEAL liner!<br></p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>cup</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>solo</s:tag>
+    <s:tag>summer</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>y2k</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7698729632002</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7698727338242</id>
+    <published>2022-06-10T19:58:58-04:00</published>
+    <updated>2022-06-10T19:58:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-highlighter"/>
+    <title>LINER GEL- HIGHLIGHTER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_26-05-2022-17-39-51.jpg?v=1653607460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HIGHLIGHTER- A NEON yellow liner gel.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>highlighter</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>neon</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7698727338242</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7585877688578</id>
+    <published>2022-02-20T09:59:25-05:00</published>
+    <updated>2022-02-20T09:59:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/primary-collection"/>
+    <title>THE PRIMARY COLLECTION</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_9e798619-ccc2-4aa7-8823-9ea97469deb9.jpg?v=1644373363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>ALL 5</strong> liner gel colors at a discounted rate! <br><br>❤️𝐎𝐎𝐏𝐒 𝐈 𝐃𝐈𝐃 𝐈𝐓 𝐀𝐆𝐀𝐈𝐍- An AMAZING red liner gel.⁣<br>🧡𝐍𝐈𝐂𝐊 𝐒𝐏𝐋𝐀𝐓- a POPPIN orange liner gel.⁣<br>💛𝐀𝐋𝐋 𝐓𝐇𝐀𝐓- A true YELLOW liner gel.⁣<br>💚𝐋𝐈𝐌𝐄𝗪𝐈𝐑𝐄- A TRUE green gel art liner.⁣<br>💙𝐆𝐄𝐍𝐈𝐄 𝐈𝐍 𝐁𝐎𝐓𝐓𝐋𝐄- A BOMB blue liner gel.</p>
+<meta charset="UTF-8">
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-Dries with tacky layer</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p>
+<p> -If pods have been sitting for a while, stir before use =)</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>gels</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>jar</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>liners</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>paint</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>primary</s:tag>
+    <s:tag>red</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7585877688578</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7580855369986</id>
+    <published>2022-02-20T09:59:24-05:00</published>
+    <updated>2022-02-20T09:59:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-nick-splat"/>
+    <title>LINER GEL- NICK SPLAT!</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c6d0ec11-0abf-4870-a127-a366ac045a40.jpg?v=1643918863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>🧡NICK SPLAT- a POPPIN orange liner gel.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-Dries with tacky layer</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>nick</s:tag>
+    <s:tag>orange</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>splat</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7580855369986</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7580853895426</id>
+    <published>2022-02-20T09:59:23-05:00</published>
+    <updated>2022-02-20T09:59:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-genie-in-a-bottle"/>
+    <title>LINER GEL- GENIE IN A BOTTLE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_ee66d986-55e7-4a18-9095-177208423a09.jpg?v=1643918807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>💙GENIE IN BOTTLE- A BOMB blue liner gel. </p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-Dries with tacky layer</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>genie</s:tag>
+    <s:tag>In a bottle</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>Royal</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7580853895426</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7580852224258</id>
+    <published>2022-02-20T09:59:22-05:00</published>
+    <updated>2022-02-20T09:59:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-all-that"/>
+    <title>LINER GEL- ALL THAT!</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_1b2cf20b-932a-4b27-8c25-c28964dae2eb.jpg?v=1643918663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>💛ALL THAT- A true YELLOW liner gel.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>all that</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>yellow</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7580852224258</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-ca/products/7580849602818</id>
+    <published>2022-02-20T09:59:22-05:00</published>
+    <updated>2022-02-20T09:59:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-ca/products/liner-gel-oops-i-did-it-again"/>
+    <title>LINER GEL- OOPS! I DID IT AGAIN</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_ce7e7d1e-3b57-4423-80a1-e9479f5da28f.jpg?v=1643918546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>❤️OOPS I DID IT AGAIN- An AMAZING red liner gel.</p>
+<p>-Cure time- <strong>LED:</strong> 30-60 sec // <strong>UV:</strong> 60-120 sec</p>
+<p>-Dries with tacky layer</p>
+<p>-5 mL</p>
+<p>-Cruelty free🐰</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>design</s:tag>
+    <s:tag>gel</s:tag>
+    <s:tag>line</s:tag>
+    <s:tag>liner</s:tag>
+    <s:tag>oops I did it again</s:tag>
+    <s:tag>pod</s:tag>
+    <s:tag>polish</s:tag>
+    <s:tag>red</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-ca/products/7580849602818</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+</feed>

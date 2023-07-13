@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/collections/3d-gel.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2023-07-01T19:40:43-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/products/7931474215170</id>
+    <published>2023-07-01T19:40:43-04:00</published>
+    <updated>2023-07-01T19:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/copy-of-shading-gel"/>
+    <title>HIGHLIGHT GEL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_539ff082-83ec-4b18-9ede-f7ae65c756ea.jpg?v=1673821071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is my favorite pre-mixed highlighting gel for highlighting characters and portraits! Its the perfect mix of color to add dimension in your nail art and take your designs to the next level! Shading gels BFF!💕</p>
+<p><strong>Directions for use</strong>: Use highlight gel on areas of art to add dimension, and make areas appear highlighted, or more raised. Apply in layers to build up more white highlight if needed.</p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>highlight</s:tag>
+    <s:tag>highlighting</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7931474215170</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/8062863671554</id>
+    <published>2023-07-01T16:10:33-04:00</published>
+    <updated>2023-07-01T16:10:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/copy-of-trippy-gel-3d-sculpting-gel-15-ml"/>
+    <title>TRIPPY GEL - 3D SCULPTING GEL - 15 ML</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_9a4c82fc-95ad-46ea-a327-1ede6c1cae74.jpg?v=1688242098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large jars! 15 ML each color!</p>
+<p>This moldable gel is an easy way to achieve 3D art designs.</p>
+<p>The formula allows the nail artist to create their design with no time restraint before curing in the light. Create the same designs as with acrylic, without the hassle of working fast. </p>
+<p>Recommended to use with alcohol to allow more fluidity when working with this 3D gel, you can use 3D brush, or silicone tools to carve and sculpt your designs! </p>
+<p><strong>Cure Time LED/UV:</strong> <span style="text-decoration: underline;">LED:</span> 30-60 sec <span style="text-decoration: underline;">UV:</span> 60-120 sec *longer cure time for larger pieces, suggested in layers*<br>use gloves while working with this product* </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 ml</s:tag>
+    <s:tag>3d</s:tag>
+    <s:tag>form</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>sculpt</s:tag>
+    <s:tag>sculpting</s:tag>
+    <s:tag>trippy</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>CLEAR</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>WHITE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>BLACK</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>RED</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>ORANGE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>NEON GREEN</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>GREEN</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>BABY BLUE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>ROYAL BLUE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>PURPLE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>PINK</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>NEON PINK</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>FUCHSIA</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>BROWN</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>PEACH</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>LIGHT BEIGE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8062863671554</id>
+      <title>LIGHT NUDE</title>
+      <s:price currency="USD">28.00</s:price>
+      <s:sku/>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/8029208314114</id>
+    <published>2023-05-28T20:01:00-04:00</published>
+    <updated>2023-05-28T20:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/gel-primer"/>
+    <title>GEL PRIMER</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_ed5b8447-a22c-4729-9cda-e2b054ef2006.jpg?v=1685136212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Acid free primer for prepping the nail for optional extra adhesion before applying base coat.</b></p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>nail prep</s:tag>
+    <s:tag>primer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8029208314114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/8030060183810</id>
+    <published>2023-05-24T10:36:24-04:00</published>
+    <updated>2023-05-24T10:36:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/trippy-gel-full-collection-15-ml"/>
+    <title>TRIPPY GEL FULL COLLECTION - 15 ML</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/files/image_d8c019f8-7b1d-4c7b-baab-73d1aa920aa5.jpg?v=1684937587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            420.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Full 18 color collection of our amazing 3D sculpting gels! (15ML each) This moldable gel is an easy way to achieve 3D art designs.</p>
+<p>The formula allows the nail artist to create their design with no time restraint before curing in the light. Create the same designs as with acrylic, without the hassle of working fast. </p>
+<p>Recommended to use with alcohol to allow more fluidity when working with this 3D gel, you can use 3D brush, slim shady brush, or silicone tools to carve and sculpt your designs! </p>
+<p><strong>INCLUDES</strong>: RED, ORANGE, YELLOW, NEON GREEN, GREEN, BABY BLUE, ROYAL BLUE, PURPLE, PINK, NEON PINK, FUCHSIA, BROWN, PEACH, LIGHT BEIGE, LIGHT NUDE, CLEAR, BLACK, WHITE</p>
+<p><strong>Cure Time LED/UV:</strong> <span style="text-decoration: underline;">LED:</span> 30-60 sec <span style="text-decoration: underline;">UV:</span> 60-120 sec *longer cure time for larger pieces, suggested in layers*<br>use gloves while working with this product*</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15 ml</s:tag>
+    <s:tag>3D</s:tag>
+    <s:tag>3d gel</s:tag>
+    <s:tag>carving</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>FULL COLLECTION</s:tag>
+    <s:tag>molding</s:tag>
+    <s:tag>trippy gel</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8030060183810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>709</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/8004511498498</id>
+    <published>2023-04-28T19:59:26-04:00</published>
+    <updated>2023-04-28T19:59:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/trippy-gel-3d-sculpting-gel-5-ml"/>
+    <title>TRIPPY GEL- 3D SCULPTING GEL 5 ML</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_ea2d5423-336f-46a2-b013-1e5ef5d1995a.jpg?v=1682262863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This moldable gel is an easy way to achieve 3D art designs. 5 ML.</p>
+<p>The formula allows the nail artist to create their design with no time restraint before curing in the light. Create the same designs as with acrylic, without the hassle of working fast. </p>
+<p>Recommended to use with alcohol to allow more fluidity when working with this 3D gel, you can use 3D brush, slim shady brush, or silicone tools to carve and sculpt your designs! </p>
+<p><strong>Cure Time LED/UV:</strong> <span style="text-decoration: underline;">LED:</span> 30-60 sec <span style="text-decoration: underline;">UV:</span> 60-120 sec *longer cure time for larger pieces, suggested in layers*<br>use gloves while working with this product*💖</p>
+<p>*there is a mis-print on the PEACH gel for our first batch, think of it as a collectors edition.🤣💕</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3d</s:tag>
+    <s:tag>form</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>sculpt</s:tag>
+    <s:tag>sculpting</s:tag>
+    <s:tag>trippy</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>RED</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku/>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>ORANGE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>YELLOW</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>NEON GREEN</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>GREEN</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>BABY BLUE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>ROYAL BLUE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>PURPLE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>PINK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>NEON PINK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>FUCHSIA</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>PEACH</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>LIGHT BEIGE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>LIGHT NUDE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>BROWN</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>CLEAR</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>BLACK</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/8004511498498</id>
+      <title>WHITE</title>
+      <s:price currency="USD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7999796642050</id>
+    <published>2023-04-28T19:59:25-04:00</published>
+    <updated>2023-04-28T19:59:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/trippy-gel-full-collection"/>
+    <title>TRIPPY GEL FULL COLLECTION - 5 ML</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_f469a114-bce0-44b9-b0d6-38912a2db3a8.jpg?v=1684938150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<p>Full 18 color collection of our amazing 3D sculpting gels! (5ML each) This moldable gel is an easy way to achieve 3D art designs.</p>
+<p>The formula allows the nail artist to create their design with no time restraint before curing in the light. Create the same designs as with acrylic, without the hassle of working fast. </p>
+<p>Recommended to use with alcohol to allow more fluidity when working with this 3D gel, you can use 3D brush, slim shady brush, or silicone tools to carve and sculpt your designs! </p>
+<p><strong>INCLUDES</strong>: RED, ORANGE, YELLOW, NEON GREEN, GREEN, BABY BLUE, ROYAL BLUE, PURPLE, PINK, NEON PINK, FUCHSIA, BROWN, PEACH, LIGHT BEIGE, LIGHT NUDE, CLEAR, BLACK, WHITE</p>
+<p><strong>Cure Time LED/UV:</strong> <span style="text-decoration: underline;">LED:</span> 30-60 sec <span style="text-decoration: underline;">UV:</span> 60-120 sec *longer cure time for larger pieces, suggested in layers*<br>use gloves while working with this product*💖</p>
+<p>*there is a mis-print on the PEACH gel for our first batch, think of it as a collectors edition.🤣💕</p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D</s:tag>
+    <s:tag>3d gel</s:tag>
+    <s:tag>carving</s:tag>
+    <s:tag>collection</s:tag>
+    <s:tag>FULL COLLECTION</s:tag>
+    <s:tag>molding</s:tag>
+    <s:tag>trippy gel</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7999796642050</id>
+      <title>Default Title</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7891618169090</id>
+    <published>2022-12-01T19:28:09-05:00</published>
+    <updated>2022-12-01T19:28:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/spider-gel-black"/>
+    <title>SPIDER GEL- BLACK</title>
+    <s:type>Nail Polishes</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c3dff9f5-5a30-441c-baa3-3fc987ce8233.jpg?v=1669603311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Nail Polishes<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Spider gel made for doing string gel effects for fine lines, spider webs, and geometric shapes! Create thin lines by simply stretching the product with brush or dotting tool for different gel effects! </span></p>
+<p><span data-mce-fragment="1">-Cure 30-60 LED / 60-120 sec UV light</span></p>
+<p><span data-mce-fragment="1">-5 g jar</span></p>
+<p><span data-mce-fragment="1">-Cruelty fre</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BLACK</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>spider</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7891618169090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7891614826754</id>
+    <published>2022-12-01T19:28:08-05:00</published>
+    <updated>2022-12-01T19:28:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/spider-gel-white"/>
+    <title>SPIDER GEL- WHITE</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_de0281e0-359e-453c-9903-528c22928e3c.jpg?v=1669603264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Spider gel made for doing string gel effects for fine lines, spider webs, and geometric shapes! Create thin lines by simply stretching the product with brush or dotting tool for different gel effects! </span></p>
+<p><span data-mce-fragment="1">-Cure 30-60 LED / 60-120 sec UV light</span></p>
+<p><span data-mce-fragment="1">-5 g jar</span></p>
+<p><span data-mce-fragment="1">-Cruelty fre</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>spider</s:tag>
+    <s:tag>WHITE</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7891614826754</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7891608338690</id>
+    <published>2022-12-01T19:28:07-05:00</published>
+    <updated>2022-12-01T19:28:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/blooming-gel"/>
+    <title>BLOOMING GEL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_0f6877cd-7800-4326-99e9-1332257efe7b.jpg?v=1669602644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blooming gel for doing water/airbrush effects! </p>
+<p>Directions: apply one thin layer coat to base color and drop or drag nail art across wet blooming gel to create fun gel effects! Cure for 30-60 sec in LED. And 60-120 sec in UV!</p>
+<p>-15 ml </p>
+<p>-Cruelty Free</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>base</s:tag>
+    <s:tag>base gel</s:tag>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>rubber</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7891608338690</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7812782194946</id>
+    <published>2022-09-25T08:58:37-04:00</published>
+    <updated>2022-09-25T08:58:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/shading-gel"/>
+    <title>SHADING GEL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_47e2c19d-a9ba-439b-82e6-3b693a1fcd7e.jpg?v=1663990722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is my go-to shading gel for shading characters - also sketching outlines of characters and nail art! Its the perfect mix of color to add dimension in your nail art and take your designs to the next level!</p>
+<p><strong>Directions for use</strong>: Use shading gel on areas of art to add dimension, and shadows. Mix in clear topcoat to shading gel to lighten your shade if needed! Cure. </p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>color</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>shade</s:tag>
+    <s:tag>shading</s:tag>
+    <s:tag>shadow</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7812782194946</id>
+      <title>BLACK</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7812782194946</id>
+      <title>BROWN BLACK</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/products/7816271429890</id>
+    <published>2022-09-25T08:58:36-04:00</published>
+    <updated>2022-09-25T08:58:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/products/foil-transfer-gel"/>
+    <title>FOIL TRANSFER GEL</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_a3975cab-6a14-4ee9-993c-093ed47135e8.jpg?v=1663989843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sticky foil gel used for transferring nail foils! </p>
+<p><strong>Directions for use</strong>: Apply one coat onto cured gel color and cure! stick/press foil onto cured foil gel and lift, revealing your transfer foil design! Top coat and cure💖</p>
+<p><strong>Cure time</strong>: 30-60 sec (LED) 60-120 sec (UV)</p>
+<p><strong>15 ML. Cruelty Free. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bottle</s:tag>
+    <s:tag>foil</s:tag>
+    <s:tag>GEL</s:tag>
+    <s:tag>GEL POLISH</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>POLISH</s:tag>
+    <s:tag>soak off</s:tag>
+    <s:tag>transfer</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/products/7816271429890</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+</feed>

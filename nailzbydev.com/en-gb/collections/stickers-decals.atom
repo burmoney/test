@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://nailzbydev.com/en-gb/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://nailzbydev.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://nailzbydev.com/en-gb/collections/stickers-decals.atom"/>
+  <title>NAILZ BY DEV</title>
+  <updated>2023-04-01T19:59:26-04:00</updated>
+  <author>
+    <name>NAILZ BY DEV</name>
+  </author>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7975448314114</id>
+    <published>2023-04-01T19:59:26-04:00</published>
+    <updated>2023-04-01T19:59:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/iridescent-film"/>
+    <title>IRIDESCENT FILM</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_c00ad12a-0550-4a9a-8a5d-a6b9d23cfd72.jpg?v=1678831440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">11 sheets of iridescent film for encapsulating in acrylic or gel!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DECAL</s:tag>
+    <s:tag>film</s:tag>
+    <s:tag>iridescent</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7975448314114</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957166358786</id>
+    <published>2023-04-01T19:59:20-04:00</published>
+    <updated>2023-04-01T19:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-butterfly-stickers"/>
+    <title>AIRBRUSH BUTTERFLY STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_310a0470-57f0-461d-8ff5-09e498dc9f7a.jpg?v=1676661020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>butterfly</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957166358786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957166326018</id>
+    <published>2023-04-01T19:59:20-04:00</published>
+    <updated>2023-04-01T19:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-star-stickers"/>
+    <title>AIRBRUSH STAR STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_81f2c64d-743c-44aa-920c-36b0ecf63392.jpg?v=1676661087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>star</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957166326018</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7957166293250</id>
+    <published>2023-04-01T19:59:20-04:00</published>
+    <updated>2023-04-01T19:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-twinkle-stickers"/>
+    <title>AIRBRUSH TWINKLE STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_f0f5b23e-1795-4076-966d-0afcf7c787ce.jpg?v=1676661123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:tag>twinkle</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7957166293250</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7940842684674</id>
+    <published>2023-01-27T19:59:22-05:00</published>
+    <updated>2023-01-27T19:59:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/airbrush-hearts-stickers"/>
+    <title>AIRBRUSH HEARTS STICKERS</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_5af7b42c-fa47-408b-82db-d9051ba0c85d.heic?v=1674833472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>airbrush</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>hearts</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7940842684674</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7790272020738</id>
+    <published>2022-09-25T08:58:52-04:00</published>
+    <updated>2022-09-25T08:58:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/got-the-voodoo-stickerz"/>
+    <title>GOT THE VOODOO STICKERZ</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_7e736ab1-a80d-4ec4-a620-07c8cb3d78b0.jpg?v=1661879940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I sheet of cute Halloween voodoo style stickers💚💀</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cute</s:tag>
+    <s:tag>decal</s:tag>
+    <s:tag>decals</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>nail</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>nails</s:tag>
+    <s:tag>pastel</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:tag>voodoo</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7790272020738</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>2</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7728060662018</id>
+    <published>2022-06-28T12:26:17-04:00</published>
+    <updated>2022-06-28T12:26:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/flamin-smiley-stickerz"/>
+    <title>FLAMIN SMILEY STICKERZ</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_98f7df8f-bb9d-44be-90d0-02ace16f64e9.jpg?v=1656433682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in silver or gold🙂</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decal</s:tag>
+    <s:tag>decals</s:tag>
+    <s:tag>flame</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>smiley</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:tag>stickers</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7728060662018</id>
+      <title>SILVER</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7728060662018</id>
+      <title>GOLD</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7636199047426</id>
+    <published>2022-03-24T17:23:06-04:00</published>
+    <updated>2022-03-24T17:23:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/holo-smiley-stickerz"/>
+    <title>HOLO SMILEY STICKERZ</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_54b76a08-6498-49ab-b992-b4f6aea7b275.jpg?v=1648156984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decal</s:tag>
+    <s:tag>holo</s:tag>
+    <s:tag>smiley</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7636199047426</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/7636193247490</id>
+    <published>2022-03-24T17:20:10-04:00</published>
+    <updated>2022-03-24T17:20:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/holo-twinkle-stickerz"/>
+    <title>HOLO TWINKLE STICKERZ</title>
+    <s:type></s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/image_5e196f6b-58f5-48d6-ac59-f818eff66434.jpg?v=1648156815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decal</s:tag>
+    <s:tag>holo</s:tag>
+    <s:tag>nail art</s:tag>
+    <s:tag>sticker</s:tag>
+    <s:tag>twinkle</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/7636193247490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>3</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/6662652068039</id>
+    <published>2021-04-16T17:26:45-04:00</published>
+    <updated>2021-04-16T17:26:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/bunny-black-gold-stickerz"/>
+    <title>BUNNY BLACK&amp;GOLD STICKERZ</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_16-04-2021-17-08-05.jpg?v=1618607370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BUNNY</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>DESIGNER</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>LAVISH</s:tag>
+    <s:tag>LOGO</s:tag>
+    <s:tag>PLAY</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/6662652068039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/6662650429639</id>
+    <published>2021-04-16T17:26:44-04:00</published>
+    <updated>2021-04-16T17:26:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/copy-of-lavish-life-gold-stickerz"/>
+    <title>BUNNY GOLD STICKERZ</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_16-04-2021-17-07-56.jpg?v=1618607329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BUNNY</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>DESIGNER</s:tag>
+    <s:tag>GOLD</s:tag>
+    <s:tag>LAVISH</s:tag>
+    <s:tag>LOGO</s:tag>
+    <s:tag>PLAY</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/6662650429639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://nailzbydev.com/en-gb/products/6662646333639</id>
+    <published>2021-04-16T17:26:44-04:00</published>
+    <updated>2021-04-16T17:26:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://nailzbydev.com/en-gb/products/rainbow-bunny-stickerz"/>
+    <title>RAINBOW BUNNY STICKERZ</title>
+    <s:type>Sticker</s:type>
+    <s:vendor>NAILZ BY DEV</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0337/2423/5820/products/Facetune_16-04-2021-17-00-30.jpg?v=1618607039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NAILZ BY DEV<br>
+        <strong>Type: </strong>Sticker<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">1 sheet of RAINBOW FOIL stickers as pictured, NO water decals, easy to use and thin so sticker adheres nicely to nail. Best used over a non-tacky base. =)</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BUNNY</s:tag>
+    <s:tag>DECAIL</s:tag>
+    <s:tag>DECAL</s:tag>
+    <s:tag>DESIGNER</s:tag>
+    <s:tag>LAVISH</s:tag>
+    <s:tag>LOGO</s:tag>
+    <s:tag>RAINBOW</s:tag>
+    <s:tag>STICKER</s:tag>
+    <s:variant>
+      <id>https://nailzbydev.com/en-gb/products/6662646333639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+</feed>
